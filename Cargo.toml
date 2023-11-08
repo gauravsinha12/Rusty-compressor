@@ -1,0 +1,9 @@
+[package]
+name = "rusty-compressor"
+version = "0.1.0"
+edition = "2021"
+
+
+
+[dependencies]
+flate2 = "1.0.24"
